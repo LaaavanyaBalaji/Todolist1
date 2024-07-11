@@ -1,0 +1,62 @@
+.strikethrough:checked + span{
+    text-decoration:line-through;
+    color:black;
+  }
+.container{
+    text-align:justify;
+    background-color: white;
+    border: 20px;
+    padding: 20px;
+   height: 450px;
+   color:black;
+   width:350px;
+   align-items: center;
+
+}
+.section{
+    background-color:rgb(72, 199, 100);
+    height: 500px;
+    width:500px;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
+p{
+     color: grey;
+    font-size:15px;
+}
+body{
+    align-content: center;
+}
+label{
+    padding: 10px;
+}
+.btn1{
+    border-radius: 25%;
+    background-color: rgb(83, 123, 185);
+    padding: 20px auto;
+    margin-left: 10px;
+    width: 90px;
+}
+.btn2{
+    border-radius: 25%;
+    background-color: rgb(83, 123, 185);
+    padding: 20px auto;
+    
+    width: 90px;
+
+}
+.btn3{
+    border-radius: 25%;
+    background-color: rgb(210, 13, 13);
+    padding: 20px auto;
+
+    width: 90px;
+}
+.btn4{
+    border-radius: 25%;
+    background-color: rgb(55, 218, 49);
+    padding: 20px auto;
+
+    width: 90px;
+}
